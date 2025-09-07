@@ -1,0 +1,5 @@
+{
+  "name": "Daily HoroBingo",
+  "description": "A lightweight 3x3 daily bingo game that provides short, AI-generated horoscope predictions in a fun format. It builds habits through streaks and gamification (XP, levels, coins, badges) and runs offline in the browser. Available in English and Czech.",
+  "requestFramePermissions": []
+}
